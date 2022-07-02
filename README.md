@@ -1,6 +1,6 @@
 # Proyecto KIHEDOVI
 ## Módulo SeleccionEstudiante
-**Descripción**
+**Descripción:**
 El modúlo tiene como objetivo seleccionar un grupo o estudinate de un grupo.
 Apellidos y nombres | Rol | % de Participación
 ------------------- | --- | ------
