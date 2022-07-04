@@ -27,9 +27,9 @@ Puntos de historia (días ideales) | 0.5
 ## REVISIÓN
 Criterio | Comentario | Realizado por | Solucionado
 --- | :---: | --- | ---
-Completo | Conforme | |
-Consistente | Conforme | |	
-Negociable | Conforme | |
-Valiosa | Conforme | |
-Estimable | Conforme | |	
-Pequeña | Conforme | |
+Completo | Conforme | Jhon |
+Consistente | Conforme | Jhordan |	
+Negociable | Conforme | Hugo |
+Valiosa | Conforme | Jhon |
+Estimable | Conforme | Jhordan |	
+Pequeña | Conforme | Hugo |
