@@ -33,3 +33,4 @@ Negociable | Conforme | Hugo | &#10003;
 Valiosa | Conforme | Jhon | &#10003;
 Estimable | Conforme | Jhordan | &#10003;
 Pequeña | Conforme | Hugo | &#10003;
+Comprobable | Conforme | Jhon | &#10003;
