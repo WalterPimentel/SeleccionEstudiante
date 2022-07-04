@@ -26,10 +26,10 @@ Puntos de historia (días ideales) | 0.5
 **3** | El campo Asignatura no debe estar vacío.
 ## REVISIÓN
 Criterio | Comentario | Realizado por | Solucionado
---- | :---: | --- | ---
-Completo | Conforme | Jhon |
-Consistente | Conforme | Jhordan |	
-Negociable | Conforme | Hugo |
-Valiosa | Conforme | Jhon |
-Estimable | Conforme | Jhordan |	
-Pequeña | Conforme | Hugo |
+--- | :---: | --- | :---:
+Completo | Conforme | Jhon | &#10003;
+Consistente | Conforme | Jhordan | &#10003;
+Negociable | Conforme | Hugo | &#10003;
+Valiosa | Conforme | Jhon | &#10003;
+Estimable | Conforme | Jhordan | &#10003;
+Pequeña | Conforme | Hugo | &#10003;
